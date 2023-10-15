@@ -119,6 +119,10 @@
     align-self: start;
     margin-top: 3rem;
   }
+
+  .img-fluid{
+    border-radius: 50%;
+  }
   
   
   /* media queries */
